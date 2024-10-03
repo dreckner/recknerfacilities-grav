@@ -1,0 +1,68 @@
+1728589846
+a:2:{s:7:"content";s:3650:"<section class="container max-w-screen-xl mx-auto relative py-12 px-8">
+  <img class="absolute inset-0 -top-4 bottom-0 h-full object-cover " src="/user/pages/home/01._intro/facilities-home-page-bg.webp"  alt="Intro" />
+  <div class="">
+    <div class="text-center relative">
+      <h1 class="absolute top-0 left-1/2 leading-[.9] -translate-x-1/2 text-black/0 text-[100px] sm:text-[120px] md:text-[140px] lg:text-[180px] text-black font-black">reckner</h1>
+      <img class="!h-[150px] mx-auto"
+           src="/user/themes/reckner-facilities/images/reckner-header.svg" alt="Reckner Facilities" />
+      <div class="flex items-center text-white text-xl sm:text-2xl md:text-3xl lg:text-4xl my-12 -mx-8">
+        <div class="flex-1 grid items-center">
+          <div class="bg-gray-800 p-4 pr-12 w-full text-balance text-right">
+            <span>market research</span>
+          </div>
+        </div>
+        <div class="z-[1] reckner-symbol bg-gray-800 rounded-full grid items-center justify-center -mx-4">
+          <img class="-mt-2" src="/user/themes/reckner-facilities/images/symbol.svg" alt="Recker Symbol" />
+        </div>
+        <div class="flex-1 grid items-center">
+          <div class="bg-gray-800 p-4 pl-12 w-full text-balance text-left">
+            <span>&amp; test facilities</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="text-center relative">
+    <h2 class="text-2xl md:text-3xl font-medium text-balance max-w-screen-sm mx-auto">We deliver the best respondents for your market research, every time.</h2>
+
+    <div class="max-w-screen-lg mx-auto my-12">
+      <!-- Slider main container -->
+      <div class="swiper">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper pb-4">
+          <!-- Slides -->
+                    <div class="swiper-slide relative rounded overflow-hidden">
+            <img class="intro-image" src="/user/pages/home/01._intro/focus-groups-slideshow.webp" alt="slide.title" />
+            <div class="intro-label">Focus groups</div>
+          </div>
+                    <div class="swiper-slide relative rounded overflow-hidden">
+            <img class="intro-image" src="/user/pages/home/01._intro/home-use-tests-slideshow.webp" alt="slide.title" />
+            <div class="intro-label">Home use tests</div>
+          </div>
+                    <div class="swiper-slide relative rounded overflow-hidden">
+            <img class="intro-image" src="/user/pages/home/01._intro/recruiting-slideshow.webp" alt="slide.title" />
+            <div class="intro-label">Recruiting</div>
+          </div>
+                    <div class="swiper-slide relative rounded overflow-hidden">
+            <img class="intro-image" src="/user/pages/home/01._intro/product-testing-booths-slideshow.webp" alt="slide.title" />
+            <div class="intro-label">Product booths</div>
+          </div>
+                    <div class="swiper-slide relative rounded overflow-hidden">
+            <img class="intro-image" src="/user/pages/home/01._intro/commercial-kitchens-slideshow.webp" alt="slide.title" />
+            <div class="intro-label">commercial kitchens</div>
+          </div>
+                    <div class="swiper-slide relative rounded overflow-hidden">
+            <img class="intro-image" src="/user/pages/home/01._intro/fieldwork-slideshow.webp" alt="slide.title" />
+            <div class="intro-label">fieldwork</div>
+          </div>
+                  </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
+    </div>
+
+  </div>
+</section>
+";s:12:"content_meta";N;}

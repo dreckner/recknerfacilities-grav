@@ -1,0 +1,247 @@
+1728594279
+a:2:{s:7:"content";s:10150:"    <section class="container max-w-screen-xl mx-auto relative py-12 px-8">
+        <div>
+
+                            <h2 class="text-2xl md:text-3xl lg:text-4xl text-center font-semibold mb-12">
+                    <a href="/services">How we help</a>
+                </h2>
+            
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 text-gray-900">
+                                                            <span class="p-4 rounded bg-gray-100 flex flex-col items-center">
+                                                <span class="flex bg-white h-20 w-20 rounded-full items-center justify-center">
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="icon icon-tabler icons-tabler-outline icon-tabler-buildings inline-block w-12 h-12 text-primary-500"
+>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 21v-15c0 -1 1 -2 2 -2h5c1 0 2 1 2 2v15" />
+  <path d="M16 8h2c1 0 2 1 2 2v11" />
+  <path d="M3 21h18" />
+  <path d="M10 12v0" />
+  <path d="M10 16v0" />
+  <path d="M10 8v0" />
+  <path d="M7 12v0" />
+  <path d="M7 16v0" />
+  <path d="M7 8v0" />
+  <path d="M17 12v0" />
+  <path d="M17 16v0" />
+</svg>
+                </span>
+                            <h3 class="text-sm md:text-base lg:text-lg text-center mt-2">central location tests</h3>
+                                            </span>
+                    
+                                                            <span class="p-4 rounded bg-gray-100 flex flex-col items-center">
+                                                <span class="flex bg-white h-20 w-20 rounded-full items-center justify-center">
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="icon icon-tabler icons-tabler-outline icon-tabler-checklist inline-block w-12 h-12 text-primary-500"
+>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9.615 20h-2.615a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v8" />
+  <path d="M14 19l2 2l4 -4" />
+  <path d="M9 8h4" />
+  <path d="M9 12h2" />
+</svg>
+                </span>
+                            <h3 class="text-sm md:text-base lg:text-lg text-center mt-2">field management</h3>
+                                            </span>
+                    
+                                                            <span class="p-4 rounded bg-gray-100 flex flex-col items-center">
+                                                <span class="flex bg-white h-20 w-20 rounded-full items-center justify-center">
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="icon icon-tabler icons-tabler-outline icon-tabler-target-arrow inline-block w-12 h-12 text-primary-500"
+>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path d="M12 7a5 5 0 1 0 5 5" />
+  <path d="M13 3.055a9 9 0 1 0 7.941 7.945" />
+  <path d="M15 6v3h3l3 -3h-3v-3z" />
+  <path d="M15 9l-3 3" />
+</svg>
+                </span>
+                            <h3 class="text-sm md:text-base lg:text-lg text-center mt-2">focus groups</h3>
+                                            </span>
+                    
+                                                            <span class="p-4 rounded bg-gray-100 flex flex-col items-center">
+                                                <span class="flex bg-white h-20 w-20 rounded-full items-center justify-center">
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="icon icon-tabler icons-tabler-outline icon-tabler-home inline-block w-12 h-12 text-primary-500"
+>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+                </span>
+                            <h3 class="text-sm md:text-base lg:text-lg text-center mt-2">home use tests</h3>
+                                            </span>
+                    
+                                                            <span class="p-4 rounded bg-gray-100 flex flex-col items-center">
+                                                <span class="flex bg-white h-20 w-20 rounded-full items-center justify-center">
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="icon icon-tabler icons-tabler-outline icon-tabler-spray inline-block w-12 h-12 text-primary-500"
+>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 10m0 2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v7a2 2 0 0 1 -2 2h-4a2 2 0 0 1 -2 -2z" />
+  <path d="M6 10v-4a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v4" />
+  <path d="M15 7h.01" />
+  <path d="M18 9h.01" />
+  <path d="M18 5h.01" />
+  <path d="M21 3h.01" />
+  <path d="M21 7h.01" />
+  <path d="M21 11h.01" />
+  <path d="M10 7h1" />
+</svg>
+                </span>
+                            <h3 class="text-sm md:text-base lg:text-lg text-center mt-2">product tests</h3>
+                                            </span>
+                    
+                                                            <span class="p-4 rounded bg-gray-100 flex flex-col items-center">
+                                                <span class="flex bg-white h-20 w-20 rounded-full items-center justify-center">
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="icon icon-tabler icons-tabler-outline icon-tabler-code-asterisk inline-block w-12 h-12 text-primary-500"
+>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M6 19a2 2 0 0 1 -2 -2v-4l-1 -1l1 -1v-4a2 2 0 0 1 2 -2" />
+  <path d="M12 11.875l3 -1.687" />
+  <path d="M12 11.875v3.375" />
+  <path d="M12 11.875l-3 -1.687" />
+  <path d="M12 11.875l3 1.688" />
+  <path d="M12 8.5v3.375" />
+  <path d="M12 11.875l-3 1.688" />
+  <path d="M18 19a2 2 0 0 0 2 -2v-4l1 -1l-1 -1v-4a2 2 0 0 0 -2 -2" />
+</svg>
+                </span>
+                            <h3 class="text-sm md:text-base lg:text-lg text-center mt-2">programming</h3>
+                                            </span>
+                    
+                                                            <span class="p-4 rounded bg-gray-100 flex flex-col items-center">
+                                                <span class="flex bg-white h-20 w-20 rounded-full items-center justify-center">
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="icon icon-tabler icons-tabler-outline icon-tabler-user-search inline-block w-12 h-12 text-primary-500"
+>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h1.5" />
+  <path d="M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path d="M20.2 20.2l1.8 1.8" />
+</svg>
+                </span>
+                            <h3 class="text-sm md:text-base lg:text-lg text-center mt-2">recruiting</h3>
+                                            </span>
+                    
+                                                            <span class="p-4 rounded bg-gray-100 flex flex-col items-center">
+                                                <span class="flex bg-white h-20 w-20 rounded-full items-center justify-center">
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="icon icon-tabler icons-tabler-outline icon-tabler-perfume inline-block w-12 h-12 text-primary-500"
+>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M10 6v3" />
+  <path d="M14 6v3" />
+  <path d="M5 9m0 2a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2z" />
+  <path d="M12 15m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path d="M9 3h6v3h-6z" />
+</svg>
+                </span>
+                            <h3 class="text-sm md:text-base lg:text-lg text-center mt-2">sensory tests</h3>
+                                            </span>
+                    
+                                                            <span class="p-4 rounded bg-gray-100 flex flex-col items-center">
+                                                <span class="flex bg-white h-20 w-20 rounded-full items-center justify-center">
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="icon icon-tabler icons-tabler-outline icon-tabler-burger inline-block w-12 h-12 text-primary-500"
+>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 15h16a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z" />
+  <path d="M12 4c3.783 0 6.953 2.133 7.786 5h-15.572c.833 -2.867 4.003 -5 7.786 -5z" />
+  <path d="M5 12h14" />
+</svg>
+                </span>
+                            <h3 class="text-sm md:text-base lg:text-lg text-center mt-2">taste tests</h3>
+                                            </span>
+                    
+                            </div>
+
+        </div>
+
+    </section>
+";s:12:"content_meta";N;}

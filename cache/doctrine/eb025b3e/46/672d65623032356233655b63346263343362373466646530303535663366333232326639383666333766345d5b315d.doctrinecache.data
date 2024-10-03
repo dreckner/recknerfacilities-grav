@@ -1,0 +1,23 @@
+1728589846
+a:2:{s:7:"content";s:754:"<section class="container max-w-screen-xl mx-auto relative py-12 px-8">
+  <div>
+
+        <h2 class="text-2xl md:text-3xl lg:text-4xl text-center font-semibold mb-12">
+      <a href="/services">How we work</a>
+    </h2>
+    
+    <div class="grid items-center justify-center">
+      <img class="row-start-1 col-start-1 w-full h-auto rounded" src="/user/pages/home/03._how-we-work/company-office.webp" alt="How we work"  />
+      <div class="row-start-1 col-start-1 flex justify-center">
+        <div class="bg-white/50 backdrop-blur-sm p-4 md:p-8 text-lg md:text-2xl lg:text-3xl rounded !leading-relaxed">
+          <p>personal services<br />
+flawless execution<br />
+exceptional facilities</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</section>
+";s:12:"content_meta";N;}
